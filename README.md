@@ -11,4 +11,4 @@ The Service Analysis dashboard provides insights on the quality of the company's
 
 Overall, this project provides a comprehensive analysis of customer churn in the telecommunications industry, helping the company make data-driven decisions to improve customer retention and increase revenue.
 
-Technologies used: Power BI, SQL Server, Excel
+Technologies used: Power BI, Excel
